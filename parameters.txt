@@ -1,0 +1,2 @@
+cwafile,filterF,lightThreshold
+D:\Data\ACC_Test_Data\light-detection\19423_0000000000.cwa,5,400
