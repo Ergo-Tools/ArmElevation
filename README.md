@@ -1,4 +1,4 @@
-#   **Arm Elevation Viewer – Version 2020.1**
+#   **Arm Elevation Viewer – Version 2020.2**
 <img width="1282" height="796" alt="Screensh-full window" src="https://github.com/user-attachments/assets/a0041230-0de2-4bba-9574-84355864cec6" />
 
 **© 2020, Pasan Hettiarachchi & Peter Johansson**
