@@ -8,7 +8,7 @@
       <file>${PROJECT_ROOT}\ArmElevation_resources\icon_24.png</file>
       <file>${PROJECT_ROOT}\ArmElevation_resources\icon_16.png</file>
     </param.icons>
-    <param.version>2020.1</param.version>
+    <param.version>2020.2</param.version>
     <param.authnamewatermark>Pasan Hettiarachchi &amp; Peter Johansson</param.authnamewatermark>
     <param.email>https://github.com/Ergo-Tools/ArmElevation</param.email>
     <param.company>Ergo-Tools</param.company>
@@ -38,7 +38,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     <param.web.mcr>true</param.web.mcr>
     <param.package.mcr>false</param.package.mcr>
     <param.no.mcr>false</param.no.mcr>
-    <param.web.mcr.name>ArmElevationInstaller_v2020.1</param.web.mcr.name>
+    <param.web.mcr.name>ArmElevationInstaller_v2020.2</param.web.mcr.name>
     <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
     <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
     <param.windows.command.prompt>true</param.windows.command.prompt>
